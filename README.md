@@ -52,17 +52,17 @@ Connection preferences:
 
 Bluetooth -> **Use Bluetooth** -> ❌ *when not using*
 
-Bluetooth -> **Device name** -> Keep this generic, I recommend setting it to `Device` *(You will need to temporarily turn on Bluetooth for this option to appear, don't forget to disable it again after)*
+Bluetooth -> **Device name** -> Keep this generic, I recommend setting it to `Device` *(You will need to temporarily turn on Bluetooth for this option to appear, don't forget to disable Bluetooth again after)*
 
 Bluetooth -> **Turn off Bluetooth automatically** -> Your choice, the lower the better, I leave mine at `1 minute`
 
 NFC -> **Use NFC** -> ❌ *when not using*
 
-NFC -> **Require device unlock for NFC** -> ✅ *(You will need to temporarily turn on NFC to toggle this option, don't forget to disable it again after)*
+NFC -> **Require device unlock for NFC** -> ✅ *(You will need to temporarily turn on NFC to toggle this option, don't forget to disable NFC again after)*
 
 Printing -> Default Print Service -> **Use print service** -> ❌ *if not using* *(Also do the same for your Work profile if you have one)*
 
-**Ultra-Wideband (UWB)** -> ❌ *(You will need to temporarily turn off Airplane Mode to toggle this option, don't forget to enable it again after)*
+**Ultra-Wideband (UWB)** -> ❌ *(You will need to temporarily turn off Airplane Mode to toggle this option, don't forget to enable Airplane Mode again after)*
 
 # Apps
 
@@ -178,7 +178,7 @@ Screen lock -> **Power button instantly locks** -> ✅
 
 Secure app spawning -> **Use secure app spawning** -> `Enabled` ✅
 
-**Automatic exploit protection compatibility mode** -> ❌ *(If you're not willing to troubleshoot, then you could potentially leave this on)*
+**Automatic exploit protection compatibility mode** -> ❌ *(If you're not willing to troubleshoot the very rare times an app has issues, then you could potentially leave this on)*
 
 Native code debugging -> **Block for third-party apps by default** -> ✅
 
