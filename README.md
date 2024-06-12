@@ -256,7 +256,7 @@ Gestures -> Navigation mode -> Gesture navigation -> **Swipe to invoke assistant
 
 Gestures -> Navigation mode -> 3-button navigation -> **Hold home for assistant** -> ❌
 
-Date & time -> **Set time automatically** -> ✅
+Date & time -> **Set time automatically** -> ✅ *This is very important for security*
 
 Date & time -> Time zone -> **Set automatically** -> ✅
 
