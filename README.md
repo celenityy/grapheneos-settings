@@ -38,7 +38,7 @@ VPN -> *Select your VPN if you use one (you should)* -> **Always-on VPN** -> ✅
 
 VPN -> *Select your VPN if you use one (you should)* -> **Block connections without VPN** -> ✅ *(Should be default)*
 
-Private DNS -> **Private DNS provider hostname** -> Pick a private/secure DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings), otherwise I would recommend [Quad9](https://quad9.net/): `dns.quad9.net`
+Private DNS -> **Private DNS provider hostname** -> Pick a private/secure DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `dns.quad9.net`
 
 **Internet connectivity checks** -> `Off` *(You can re-enable when necessary to connect on public networks with captive portals)*
 
@@ -162,7 +162,7 @@ Please, please, please, do **NOT** grant any apps the accessibility permission u
 
 # Security
 
-**Screen lock** -> I would recomend using a strong `Password` and avoiding fingerprint or PIN if possible.
+**Screen lock** -> I would recomend using a strong `Password` and avoiding fingerprint, face, or PIN if possible.
 
 Screen lock -> **Lock after screen timeout** -> Your choice, the lower the better, I leave mine at `5 seconds after timeout`
 
