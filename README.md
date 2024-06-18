@@ -2,6 +2,8 @@
 
 My recommendations for the ultimate GrapheneOS Configuration :)
 
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/grapheneos-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/grapheneos-settings).
+
 # Network & internet
 
 Internet -> **Wi-Fi** -> ❌ *when not using*
