@@ -10,11 +10,13 @@ Internet -> **Wi-Fi** -> ❌ *when not using*
 
 Internet -> Network preferences:
 
-**Turn on Wi-Fi automatically** -> ❌
+* **Turn on Wi-Fi automatically** -> ❌
 
-**Notify for public networks** -> ❌
+* **Notify for public networks** -> ❌
 
-**Turn off Wi-Fi automatically** -> Your choice, the lower the better, I leave mine at `1 minute`
+* **Turn off Wi-Fi automatically** -> Your choice, the lower the better, I leave mine at `1 minute`
+
+<br>
 
 SIMs -> *Select your carrier* -> **Preferred network type** -> `LTE only`
 
@@ -28,13 +30,15 @@ SIMs -> *Select your carrier* -> **Vo5G** -> ❌
 
 Hotspot & Tethering:
 
-**Wi-Fi hotspot** -> ❌
+* **Wi-Fi hotspot** -> ❌
 
-**USB tethering** -> ❌
+* **USB tethering** -> ❌
 
-**Bluetooth tethering** -> ❌
+* **Bluetooth tethering** -> ❌
 
-**Ethernet tethering** -> ❌
+* **Ethernet tethering** -> ❌
+
+<br>
 
 VPN -> *Select your VPN if you use one (you should)* -> **Always-on VPN** -> ✅ *(Should be default)*
 
@@ -52,19 +56,19 @@ Private DNS -> **Private DNS provider hostname** -> Pick a private/secure DNS pr
 
 Connection preferences:
 
-Bluetooth -> **Use Bluetooth** -> ❌ *when not using*
+* Bluetooth -> **Use Bluetooth** -> ❌ *when not using*
 
-Bluetooth -> **Device name** -> Keep this generic, I recommend setting it to `Device` *(You will need to temporarily turn on Bluetooth for this option to appear, don't forget to disable Bluetooth again after)*
+* Bluetooth -> **Device name** -> Keep this generic, I recommend setting it to `Device` *(You will need to temporarily turn on Bluetooth for this option to appear, don't forget to disable Bluetooth again after)*
 
-Bluetooth -> **Turn off Bluetooth automatically** -> Your choice, the lower the better, I leave mine at `1 minute`
+* Bluetooth -> **Turn off Bluetooth automatically** -> Your choice, the lower the better, I leave mine at `1 minute`
 
-NFC -> **Use NFC** -> ❌ *when not using*
+* NFC -> **Use NFC** -> ❌ *when not using*
 
-NFC -> **Require device unlock for NFC** -> ✅ *(You will need to temporarily turn on NFC to toggle this option, don't forget to disable NFC again after)*
+* NFC -> **Require device unlock for NFC** -> ✅ *(You will need to temporarily turn on NFC to toggle this option, don't forget to disable NFC again after)*
 
-Printing -> Default Print Service -> **Use print service** -> ❌ *if not using* *(Also do the same for your Work profile if you have one)*
+* Printing -> Default Print Service -> **Use print service** -> ❌ *if not using* *(Also do the same for your Work profile if you have one)*
 
-**Ultra-Wideband (UWB)** -> ❌ *(You will need to temporarily turn off Airplane Mode to toggle this option, don't forget to enable Airplane Mode again after)*
+* **Ultra-Wideband (UWB)** -> ❌ *(You will need to temporarily turn off Airplane Mode to toggle this option, don't forget to enable Airplane Mode again after)*
 
 # Apps
 
@@ -102,6 +106,7 @@ Wireless emergency alerts:
 
 * **State and local tests** -> ❌
 
+<br>
 
 **Hide silent notifications in status bar** -> ✅
 
@@ -141,20 +146,21 @@ Night Light -> **End time** -> `6:00 AM`
 
 Lock screen -> More lock screen options:
 
-**Use device controls** -> ✅ *(harmless)*
+* **Use device controls** -> ✅ *(harmless)*
 
-**Dynamic clock** -> ❌
+* **Dynamic clock** -> ❌
 
-**Always show time and info** -> ❌
+* **Always show time and info** -> ❌
 
-**Tap to check phone** -> `Off` ❌
+* **Tap to check phone** -> `Off` ❌
 
-**Lift to check phone** -> `Off` ❌
+* **Lift to check phone** -> `Off` ❌
 
-**Wake screen for notifications** -> ✅ *(You could disable this if you need to conserve battery)*
+* **Wake screen for notifications** -> ✅ *(You could disable this if you need to conserve battery)*
 
-**When work profile is locked** -> `Hide sensitive work content`
+* **When work profile is locked** -> `Hide sensitive work content`
 
+<br>
 
 Home screen -> **Themed icons** -> ✅
 
@@ -192,17 +198,17 @@ Native code debugging -> **Block for third-party apps by default** -> ✅
 
 More security settings:
 
-**Device admin apps** -> Go through and remove this permission from any apps that don't absolutely need it
+* **Device admin apps** -> Go through and remove this permission from any apps that don't absolutely need it
 
-SIM lock -> **Lock SIM** -> ✅ *(You might have to find your carrier's default SIM PIN)*
+* SIM lock -> **Lock SIM** -> ✅ *(You might have to find your carrier's default SIM PIN)*
 
-Encryption & credentials -> Trusted credentials -> **User** -> Remove any certificates you don't need/use
+* Encryption & credentials -> Trusted credentials -> **User** -> Remove any certificates you don't need/use
 
-Encryption & credentials -> **User credentials** -> Remove any certificates you don't need/use
+* Encryption & credentials -> **User credentials** -> Remove any certificates you don't need/use
 
-Work profile security -> **Use one lock** -> ✅
+* Work profile security -> **Use one lock** -> ✅
 
-**Fingerprint unlock for work** -> ❌ *(You should use a strong password instead)*
+* **Fingerprint unlock for work** -> ❌ *(You should use a strong password instead)*
 
 # Privacy
 
@@ -236,21 +242,21 @@ Location services -> **Bluetooth scanning** -> ❌ *(Should be default, make sur
 
 Keyboard -> On-screen keyboard -> Keyboard:
 
-Preferences -> **Auto-capitalization** -> ❌
+* Preferences -> **Auto-capitalization** -> ❌
 
-Preferences -> **Voice input key** -> ❌ *if you don't use*
+* Preferences -> **Voice input key** -> ❌ *if you don't use*
 
-Text correction -> **Block offensive words** -> ❌
+* Text correction -> **Block offensive words** -> ❌
 
-Text correction -> **Personalized suggestions** -> ❌ *(Should be default)*
+* Text correction -> **Personalized suggestions** -> ❌ *(Should be default)*
 
-Text correction -> **Suggest Contact names** -> ❌
+* Text correction -> **Suggest Contact names** -> ❌
 
-Advanced -> **Emoji for physical keyboard** -> ✅
+* Advanced -> **Emoji for physical keyboard** -> ✅
 
+<br>
 
 Keyboard -> Spell checker -> **Look up contact names** -> ❌
-
 
 Gestures -> **Navigation mode** -> ✅ `Gesture navigation` *(I held out on `3-button navigation` for ages, but after finally switching, I can say it's a game-changer, so much better, please try it)*
 
@@ -274,7 +280,7 @@ System updates -> **Require device to be charging** -> ❌
 
 System updates -> **Automatic Reboot** -> ❌ *(Should be default, I found this way too annoying)*
 
-Developer options:
+# Developer options
 
 **OEM unlocking** -> ❌
 
