@@ -234,7 +234,9 @@ Location services -> **Wi-Fi scanning** -> ❌ *(Should be default, make sure to
 
 Location services -> **Bluetooth scanning** -> ❌ *(Should be default, make sure to also set for your `Work` profile if you have one)*
 
-**Secure User Plane Location (SUPL)** -> `Off` *(This may slow down speed of acquiring location, but I haven't noticed any difference, as long as you're on a newer Pixel, you should be fine)*
+SUPL is used to speed-up acquiring location, but it comes at the cost of potentially sending sensitive information to Google, such as your MCC, MNC, nearby cell towers, and the strength of those towers. While GrapheneOS does proxy this connection, which helps to improve privacy, this is still not ideal, as Google is still sent this data. I have personally not noticed any difference acquiring location with this off, so as long as you're on a newer Pixel, I would highly recommend just disabling this. You can read more about SUPL, as well as PSDS [here](https://divestos.org/misc/gnss.txt):
+
+**Secure User Plane Location (SUPL)** -> `Off`
 
 **Predicted Satellite Data Service (PSDS)** -> `GrapheneOS server` *(harmless)*
 
