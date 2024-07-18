@@ -96,9 +96,9 @@ Notification history -> **Use notification history** -> ❌ *(Should be default)
 
 **Sensitive work profile notifications** -> ❌
 
-Flash notifications -> **Camera flash** -> ❌ *(Why?)*
+Flash notifications -> **Camera flash** -> ❌ *(Unless needed)*
 
-Flash notifications -> **Screen flash** -> ❌ *(Why?)*
+Flash notifications -> **Screen flash** -> ❌ *(Unless needed)*
 
 Wireless emergency alerts:
 
@@ -166,7 +166,7 @@ Home screen -> **Themed icons** -> ✅
 
 # Accessibility
 
-Please, please, please, do **NOT** grant any apps the accessibility permission unless you actually need to. This is a very dangerous permission, very concerning from a privacy & security stand-point, please be careful.
+Please do **NOT** grant any apps the accessibility permission unless you actually need to. This is a very dangerous permission, very concerning from a privacy & security stand-point, so please be mindful.
 
 # Security
 
@@ -179,8 +179,6 @@ Screen lock -> **Power button instantly locks** -> ✅
 **Auto reboot** -> Your choice, the lower the better, I leave mine at `8 hours`
 
 **Duress password** -> This is a great setting, make sure to enable and take advantage of it.
-
-**USB peripherals** -> `Allow new USB peripherals when unlocked` *(If you don't use any USB devices at all with your device, you should set this to `Disallow new USB peripherals`)*
 
 **USB-C port** -> `Charging-only when locked` *(If you don't use any USB devices at all with your device, you should set this to `Charging-only`)*
 
