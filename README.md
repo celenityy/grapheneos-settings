@@ -44,7 +44,7 @@ VPN -> *Select your VPN if you use one (you should)* -> **Always-on VPN** -> ✅
 
 VPN -> *Select your VPN if you use one (you should)* -> **Block connections without VPN** -> ✅ *(Should be default)*
 
-Private DNS -> **Private DNS provider hostname** -> Pick a private/secure DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `dns.quad9.net`
+Private DNS -> **Private DNS provider hostname** -> Pick a private/secure DNS provider of your choice, I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `dns.quad9.net`
 
 **Internet connectivity checks** -> `Off` *(You can re-enable when necessary to connect on public networks with captive portals)*
 
@@ -232,7 +232,7 @@ Location services -> **Wi-Fi scanning** -> ❌ *(Should be default, make sure to
 
 Location services -> **Bluetooth scanning** -> ❌ *(Should be default, make sure to also set for your `Work` profile if you have one)*
 
-SUPL is used to speed-up acquiring location, but it comes at the cost of potentially sending sensitive information to Google, such as your MCC, MNC, nearby cell towers, and the strength of those towers. While GrapheneOS does proxy this connection, which helps to improve privacy, this is still not ideal, as Google is still sent this data. I have personally not noticed any difference acquiring location with this off, so as long as you're on a newer Pixel, I would highly recommend just disabling this. You can read more about SUPL, as well as PSDS [here](https://divestos.org/misc/gnss.txt):
+SUPL is used to speed-up acquiring location, but it comes at the cost of potentially sending sensitive information to Google, such as your MCC, MNC, nearby cell towers, and the strength of those towers. While GrapheneOS does proxy this connection, which helps to improve privacy, this is still not ideal, as Google is still sent this data. I have personally not noticed any difference acquiring location with this off, so as long as you're on a newer Pixel, I would recommend just disabling this. You can read more about SUPL, as well as PSDS [here](https://divestos.org/misc/gnss.txt):
 
 **Secure User Plane Location (SUPL)** -> `Off`
 
